@@ -922,7 +922,7 @@ int main(int argc, char*argv[]) {
 	glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGBA); // we will be using color display mode
 	glutInitWindowPosition(50, 50); // set the initial position of our window
 	glutInitWindowSize(width, height); // set the size of our window
-	glutCreateWindow("Rush Hour by Naveed Ahmad"); // set the title of our game window
+	glutCreateWindow("Rush Hour by Mohammad Attique"); // set the title of our game window
 	SetCanvasSize(width, height); // set the number of pixels...
 
 	// Register your functions to the library,
